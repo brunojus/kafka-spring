@@ -15,7 +15,7 @@ import java.util.UUID;
 import java.util.stream.Collectors;
 
 @Controller
-@RequestMapping("/peoples")
+@RequestMapping("/people")
 @AllArgsConstructor
 public class PeopleController {
 
